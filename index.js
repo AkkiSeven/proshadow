@@ -15,4 +15,4 @@ function pshadow(options) {
   })
 }
 
-module.exports.proshadow = pshadow;
+module.exports.pshadow = pshadow;
